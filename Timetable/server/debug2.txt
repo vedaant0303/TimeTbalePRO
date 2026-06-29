@@ -1,0 +1,10 @@
+69be47ca7fbefe8144c16916 | Mr. Ichhanshu Jaiswal | ichhanshu.jaiswal@vcet.edu.in | faculty
+69bea57f7fbefe8144c169ee | Mr. Ichhanshu Jaiswal | mr.ichhanshu.jaiswal@vcet.edu.in | faculty
+
+--- Faculty IDs in TimetableEntry ---
+69be47c97fbefe8144c16913 | Ms. Janisa Pereira janisa.pereira@vcet.edu.in
+69be47ca7fbefe8144c16916 | Mr. Ichhanshu Jaiswal ichhanshu.jaiswal@vcet.edu.in
+69be47ca7fbefe8144c16921 | Dr. Satish Salunkhe satish.salunkhe@vcet.edu.in
+69bea57f7fbefe8144c169e8 | Dr. Yogesh Pingle dr.yogesh.pingle@vcet.edu.in
+69bea5807fbefe8144c16a09 | Ms. Sejal Dmello ms.sejal.dmello@vcet.edu.in
+69bea5807fbefe8144c16a0b | Ms. Neha Raut ms.neha.raut@vcet.edu.in

@@ -1,0 +1,77 @@
+=== DATABASE: timetable_management ===
+=== MongoDB URL: mongodb://127.0.0.1:27017/timetable_management ===
+
+timeslots: 11 documents
+users: 11 documents
+subjects: 9 documents
+approvals: 0 documents
+departments: 3 documents
+auditlogs: 1 documents
+timetableentries: 21 documents
+rooms: 10 documents
+academiccalendars: 1 documents
+
+--- ALL USERS ---
+  [principal] Dr. Rajesh Kumar - principal@college.edu
+  [dean] Dr. Sunita Sharma - dean@college.edu
+  [admin] Amit Patel - admin@college.edu
+  [hod] Dr. Priya Mehta - hod.cs@college.edu
+  [coordinator] Prof. Vikram Singh - coord.cs@college.edu
+  [faculty] Prof. Anita Desai - faculty1@college.edu
+  [faculty] Prof. Rahul Verma - faculty2@college.edu
+  [faculty] Prof. Kavita Joshi - faculty3@college.edu
+  [faculty] Prof. Manoj Tiwari - faculty4@college.edu
+  [student] Arjun Nair - student1@college.edu
+  [student] Vedaant Ambolkar - student21@college.edu
+
+--- DEPARTMENTS ---
+  CSE - Computer Science & Engineering (Divisions: A, B)
+  ECE - Electronics & Communication (Divisions: A)
+  ME - Mechanical Engineering (Divisions: A)
+
+--- ROOMS ---
+  R101 - Room 101 (classroom, capacity: 60)
+  R102 - Room 102 (classroom, capacity: 60)
+  R201 - Room 201 (classroom, capacity: 40)
+  R202 - Room 202 (classroom, capacity: 40)
+  R301 - Room 301 (seminar_hall, capacity: 120)
+  CL01 - Computer Lab 1 (lab, capacity: 30)
+  CL02 - Computer Lab 2 (lab, capacity: 30)
+  EL01 - Electronics Lab (lab, capacity: 25)
+  WS01 - Workshop (lab, capacity: 40)
+  AUD1 - Auditorium (auditorium, capacity: 300)
+
+--- SUBJECTS ---
+  CS301 - Data Structures & Algorithms (Sem 5, 4 credits, theory)
+  CS302 - Database Management Systems (Sem 5, 4 credits, theory)
+  CS303 - Computer Networks (Sem 5, 3 credits, theory)
+  CS304 - Operating Systems (Sem 5, 3 credits, theory)
+  CS351 - Web Development Lab (Sem 5, 2 credits, practical)
+  CS352 - DBMS Lab (Sem 5, 2 credits, practical)
+  CS353 - Networks Lab (Sem 5, 1 credits, practical)
+  EC401 - Digital Signal Processing (Sem 5, 4 credits, theory)
+  EC402 - VLSI Design (Sem 5, 3 credits, theory)
+
+--- TIME SLOTS ---
+  Slot 1: 09:00 - 09:55
+  Slot 2: 09:55 - 10:50
+  Slot 3: 10:50 - 11:10 [short BREAK]
+  Slot 4: 11:10 - 12:05
+  Slot 5: 12:05 - 01:00
+  Slot 6: 01:00 - 01:45 [lunch BREAK]
+  Slot 7: 01:45 - 02:40
+  Slot 8: 02:40 - 03:35
+  Slot 9: 03:35 - 04:30
+  Slot 10: 09:15 - 10:15
+  Slot 11: 11:00 - 11:15 [none BREAK]
+
+--- ACADEMIC CALENDAR ---
+  Academic Year: 2025-2026 | Active: true
+  Semester: Odd Semester (2025-07-01 to 2025-12-15)
+  Semester: Even Semester (2026-01-05 to 2026-05-31)
+  Holidays (5):
+    - Independence Day (2025-08-15, national)
+    - Gandhi Jayanti (2025-10-02, national)
+    - Diwali (2025-10-20, national)
+    - Republic Day (2026-01-26, national)
+    - Holi (2026-03-14, national)

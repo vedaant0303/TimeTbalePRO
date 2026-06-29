@@ -1,0 +1,198 @@
+
+================================================================================
+FILE: EVEN SEM
+================================================================================
+Sheet names: ["Sheet1","print"]
+Total sheets: 2
+
+--- Sheet1 --- (rows:69, cols:17)
+Row 1: [0]=Department of Computer Science and Engineering Dat
+Row 3: [0]=Sr. 
+  No. | [1]=Staff Name | [2]=Designation | [3]=Class | [4]=Subject / Lab | [5]=Theory Load | [6]=Practical Load Instructor | [10]=Total Load Rowwise | [11]=Total Teaching Load | [12]=Extra Teaching Load | [13]=Extra Teaching load description | [14]=Major project load | [15]=Mini Project Load | [16]=Total Project Load
+Row 4: [6]=Batch 1 | [7]=Batch 2 | [8]=Batch 3 | [9]=Batch 4
+Row 6: [0]=1 | [1]=DR. SATISH SALUNKHE (SSS) | [2]=Professor | [3]=SE-2 | [4]=DBMS | [5]=3 | [6]=- | [7]=- | [8]=2 | [9]=2 | [10]=7 | [11]=10 | [12]=0 | [13]=-- | [14]=1 | [15]=1 | [16]=2
+Row 7: [3]=SE-3 | [4]=DBMS | [5]=3 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=3
+Row 8: [0]=2 | [1]=DR. YOGESH PINGALE (YP) | [2]=Assistant Professor | [3]=SE-3 | [4]=MDM | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11 | [11]=22 | [12]=4 | [13]=3 hrs SE 3 MDM lecture                  1hr SE3 B1 | [14]=1 | [15]=1 | [16]=2
+Row 9: [3]=SE-2 | [4]=MDM | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11
+Row 10: [0]=3 | [1]=DR. VIKRANT AGASKAR (VA) | [2]=Assistant Professor | [3]=SE-1 | [4]=OS | [5]=- | [6]=2 | [7]=- | [8]=2 | [9]=- | [10]=4 | [11]=20 | [12]=2 | [13]=2hrs SE-2 B1 OS practicals | [14]=1 | [15]=1 | [16]=2
+Row 11: [3]=SE-2 | [4]=OS | [5]=- | [6]=2 | [7]=- | [8]=- | [9]=- | [10]=2
+Row 12: [3]=SE-3 | [4]=OS | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11
+Row 13: [3]=BE | [4]=ILOC-2 | [5]=3 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=3
+Row 14: [0]=4 | [1]=\ SEJAL D'MELLO (SD) | [2]=Assistant Professor | [3]=SE-2 | [4]=OS | [5]=3 | [6]=- | [7]=2 | [8]=2 | [9]=2 | [10]=9 | [11]=21 | [12]=3 | [13]=3hrs SE-2 OS lectures | [14]=1 | [15]=1 | [16]=2
+Row 15: [3]=TE-2 | [4]=SEPM | [5]=- | [6]=- | [7]=- | [9]=2 | [10]=2
+Row 16: [3]=SE-3 | [4]=OE | [5]=2 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=2
+Row 17: [3]=TE-3 | [4]=CC | [5]=- | [6]=- | [7]=- | [8]=2 | [9]=2 | [10]=4
+Row 18: [3]=TE-1 | [4]=CC | [5]=- | [6]=2 | [7]=2 | [8]=- | [9]=- | [10]=4
+Row 19: [0]=5 | [1]=\ NEHA RAUT(NMR) | [2]=Assistant Professor | [3]=SE-1 | [4]=OS | [5]=3 | [6]=- | [7]=2 | [8]=- | [9]=2 | [10]=7 | [11]=20 | [12]=2 | [13]=2 hrs TE honors lecture | [14]=0 | [15]=1 | [16]=1
+Row 20: [3]=TE-3 | [4]=DAV | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11
+Row 21: [3]=TE Honors | [4]=Gaming AI | [5]=2 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=2
+Row 22: [0]=6 | [1]=ICCHANSHU JAISWAL (IJ) | [2]=Assistant Professor | [3]=TE-2 | [4]=ML | [5]=3 | [6]=- | [7]=2 | [8]=2 | [9]=- | [10]=7 | [11]=21 | [12]=3 | [13]=3hrs TE-3 ML lecture | [14]=1 | [15]=1 | [16]=2
+Row 23: [3]=TE-3 | [4]=ML | [5]=3 | [6]=- | [7]=2 | [8]=- | [9]=- | [10]=5
+Row 24: [3]=BE-1 | [4]=AAI | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=- | [10]=9
+Row 25: [0]=7 | [1]=\ MAYA V. CHAKKEDATH V. (MVC) | [2]=Assistant Professor | [3]=TE-3 | [4]=CSS | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11 | [11]=22 | [12]=4 | [13]=3 hrs TE 3 CSS lecture                  1hr TE3 B1 | [14]=1 | [15]=1 | [16]=2
+Row 26: [3]=TE-1 | [4]=CSS | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11
+Row 27: [0]=8 | [1]=\ JANISA PEREIRA (JP) | [2]=Assistant Professor | [3]=TE-1 | [4]=DAV | [5]=3 | [6]=2 | [7]=2 | [8]=2 | [9]=2 | [10]=11 | [11]=21 | [12]=3 | [13]=3hrs TE 1 DLOC-IVP Lecture | [14]=1 | [15]=1 | [16]=2
+Row 28: [3]=TE-3 | [4]=CC | [5]=- | [6]=2 | [7]=2 | [8]=- | [9]=- | [10]=4
+Row 29: [3]=TE 1 DLOC-02 | [4]=IVP | [5]=3 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=3
+Row 30: [3]=TE 2 &3 DLOC-02 | [4]=IVP | [5]=3 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=3
+Row 31: [0]=9 | [1]=\ LEENA RAUT (LR) | [2]=Assistant Professor | [3]=SE-1 | [4]=DBMS | [5]=3 | [6]=- | [7]=2 | [8]=2 | [9]=2 | [10]=9 | [11]=20 | [12]=2 | [13]=2hrs SE-2 B2 DBMS practical | [14]=1 | [15]=1 | [16]=2
+Row 32: [3]=SE-2 | [4]=DBMS | [5]=- | [6]=- | [7]=2 | [8]=- | [9]=- | [10]=2
+Row 33: [3]=SE-3 | [4]=DBMS | [5]=- | [6]=2 | [7]=- | [8]=2 | [9]=2 | [10]=6
+Row 34: [3]=TE 1, 2 &3 DLOC-02 | [4]=DC | [5]=3 | [6]=- | [7]=- | [8]=- | [9]=- | [10]=3
+
+Merges (172 total - showing first 10):
+  O61:O63
+  P61:P63
+  Q61:Q63
+  O64:O68
+  P64:P68
+  Q64:Q68
+  O50:O52
+  P50:P52
+  Q50:Q52
+  O53:O57
+
+--- print --- (rows:1000, cols:41)
+Row 1: [0]=Department of Computer Engineering - Faculty Workl
+Row 2: [0]=Load Distribution (FH - 2023)                     
+Row 3: [0]=Sr. 
+ No. | [1]=Staff Name | [2]=Designation | [3]=Class | [4]=Subject / Lab | [5]=Theory  Load | [6]=Project Load | [7]=Practical  Load  Instructor | [11]=Total Load Rowwise | [12]=Total  Load | [13]=CAP Contribution | [15]=Guidance / counselling for Projects  | [20]=R&D Workload                                       | [21]=Departmental Admin/ development load ( Responsibil | [22]=College level Admin- development load/ In charge o
+Row 4: [7]=Batch 1 | [8]=Batch 2 | [9]=Batch 3 | [10]=Batch 4 | [13]=Regular Exam (1.5 times of sanctioned intake) | [14]=KT Exam (no of appearing students) | [15]=No of UG  projects Group  | [18]=No of PG  projects Group  | [19]=No of PhD Students 
+Row 5: [15]=SE PROJECT GROUP | [16]=TE PROJECT GROUP | [17]=BE PROJECT GROUP
+Row 6: [0]=1 | [1]=DR. SEEMA BIDEY (SB) | [2]=Professor | [3]=BE -C | [4]=ADS | [5]=3 | [11]=3 | [12]=6 | [13]=all | [15]=0 | [16]=0 | [17]=2 | [18]=NA | [19]=NA | [20]=2 RESEARCH PAPER | [21]=HOD, Advisory Board | [22]=Academic afair committee
+Row 8: [3]=BE | [4]=PR | [6]=3 | [11]=3
+Row 9: [0]=2 | [1]=DR. SATISH SALUNKHE (SSS) | [2]=Professor | [3]=BE | [4]=PR | [6]=3 | [11]=3 | [12]=6 | [13]=all | [15]=0 | [16]=0 | [18]=1 | [19]=NA | [20]=2 RESEARCH PAPER | [21]=Mentor, FDP/STTP/Expert Talk | [22]=Phd Addmission Incharge, R& D Project Policies and
+Row 10: [3]=TE C | [4]=AI | [5]=3 | [11]=3 | [17]=0
+Row 11: [0]=3 | [1]=MR. MATHUR RAVI RAJENDRANATH (RRM) | [2]=Adjunct Professor | [3]=SE-B | [4]=DBMS | [5]=3 | [11]=3 | [12]=6 | [13]=all | [15]=0 | [17]=0 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [22]=Industry institute and partnership & training and 
+Row 12: [3]=SE-C | [4]=DBMS | [5]=3 | [11]=3 | [16]=0
+Row 13: [0]=4 | [1]=MR. CHITRE DNYANOBA KHANDU (DKC) | [2]=Associate Professor | [3]=SE A | [4]=AOA | [5]=3 | [7]=2 | [8]=2 | [9]=2 | [11]=9 | [12]=13 | [13]=all | [15]=0 | [16]=8 | [17]=2 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]=Mentor, APC, CSI Coordinator, Advisory Board, Stud | [22]=Academic afair committee, Canteen and health Incha
+Row 14: [3]=SE C | [4]=AOA | [5]=3 | [11]=3
+Row 15: [11]=0
+Row 16: [3]=BE | [4]=PR | [6]=1 | [11]=1
+Row 17: [0]=5 | [1]=MR. GAIKWAD VISHWAJIT BALASO (VBG)                 | [2]=Associate Professor | [3]=SE A | [4]=DBMS | [5]=3 | [7]=2 | [8]=2 | [9]=2 | [11]=9 | [12]=16 | [13]=all | [15]=8 | [17]=4 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]= APC(PG)IQAC, Disipline,  Mentor | [22]=Innovation cell member, Engineering product innova
+Row 18: [3]=SE C | [4]=DBMS | [10]=2 | [11]=2
+Row 19: [3]=SE B | [4]=MNP | [6]=2 | [11]=2
+Row 20: [3]=BE | [4]=PR | [6]=3 | [11]=3
+Row 21: [0]=6 | [1]=MRS. PALVE ROHINI DHARMANATH (RDP) | [2]=Associate Professor | [3]=SE A | [4]=MP | [5]=3 | [7]=2 | [8]=2 | [9]=2 | [11]=9 | [12]=16 | [13]=all | [15]=8 | [16]=0 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]=Clas Advisor(SE A), Mentor, NBA/ NAAC member, PAC  | [22]=Conference/Equinox Member
+Row 22: [3]=SE B | [4]=MP | [5]=3 | [11]=3 | [20]=NAAC
+Row 23: [3]=SE C | [4]=MNP | [6]=2 | [11]=2
+Row 24: [3]=BE | [4]=PR | [6]=2 | [11]=2
+Row 25: [0]=7 | [1]=DR. SHAVETA MALIK (SM) | [2]=Associate Professor | [3]=BE B | [4]=ADS | [5]=3 | [7]=2 | [9]=2 | [10]=2 | [11]=9 | [12]=15 | [13]=all | [15]=8 | [16]=0 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]=SE(A/B/C) Project Coordinator, Mentor, Lab incharg | [22]=Conference/Equinox Member, Industry institute and 
+Row 26: [3]=BE A | [4]=ADS | [9]=2 | [11]=2
+Row 27: [3]=SE A | [4]=MNP | [6]=2 | [11]=2 | [17]=2
+Row 28: [3]=BE | [4]=PR | [6]=2 | [11]=2
+Row 29: [0]=8 | [1]=
+Dr. SIDHARTH HARIHARAN (SHK) | [2]=Associate Professor | [3]=TE A | [4]=MC | [5]=3 | [7]=2 | [8]=2 | [9]=2 | [10]=2 | [11]=11 | [12]=15 | [13]=all | [15]=0 | [16]=8 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]=TE(A/B/C) Project Coordinator, Faculty Achievement | [22]=R& D Project Policies and monitoring member
+Row 30: [11]=0
+Row 31: [3]=TE C | [4]=MNP | [6]=2 | [11]=2 | [17]=2
+Row 32: [3]=BE | [4]=PR | [6]=2 | [11]=2
+Row 33: [0]=9 | [1]=MR. SHAHABADE RAMESH VISHWANATH (RVS) | [2]=Assistant Professor | [3]=TE C | [4]=MC | [5]=3 | [7]=2 | [8]=2 | [9]=2 | [10]=2 | [11]=11 | [12]=20 | [13]=all | [15]=8 | [16]=0 | [18]=NA | [19]=NA | [20]=1 RESEARCH PAPER | [21]=,Class Advisor(TE C) Alumni Incharge,  Budget Requ | [22]=unnat bharat abhiyan member
+Row 34: [3]=TE A | [4]=SPCC | [5]=3 | [9]=2 | [11]=5
+
+Merges (301 total - showing first 10):
+  L187:M187
+  I188:K188
+  L188:M188
+  B192:F192
+  M196:V196
+  B163:F163
+  J176:L176
+  B178:F178
+  I182:K182
+  I185:K185
+
+================================================================================
+FILE: ODD SEM
+================================================================================
+Sheet names: ["CSE-DS Workload","3 batch workload"]
+Total sheets: 2
+
+--- CSE-DS Workload --- (rows:28, cols:35)
+Row 0: [0]=VIDYAVARDHINI’S COLLEGE OF ENGINEERING AND TECHNOL
+Row 1: [0]=DEPARTMENT OF COMPUTER SCIENCE and ENGINEERING(DAT
+Row 2: [0]=Academic Year 2025-26 Work Load (Odd and Even Seme
+Row 3: [0]=Class | [1]=Subject | [2]=Odd Semester | [4]=Subject | [5]=Even Semester | [8]= Load Summary
+Row 4: [2]=Lect | [3]=Pract | [5]=Lect | [6]=Pract | [9]=Odd Semester | [10]=Even Semester
+Row 5: [0]=S.E. | [1]=DSGT | [2]=9 | [3]=- | [4]=CT | [5]=9 | [6]=- | [8]=HOD | [9]=2 | [10]=2
+Row 6: [1]=AOA | [2]=9 | [3]=18 | [4]=DBMS | [5]=9 | [6]=18 | [8]=Professor | [9]=5 | [10]=5
+Row 7: [1]=COA | [2]=9 | [3]=18 | [4]=OS | [5]=9 | [6]=18 | [8]=Existing Faculty Load (12x18) | [9]=216 | [10]=216
+Row 8: [1]=OE | [2]=6 | [3]=- | [4]=MD(Minor Elec) | [5]=9 | [6]=18 | [8]=Balance load  | [9]=61 | [10]=103
+Row 9: [1]=Full stack with JAVA | [2]=6 | [3]=18 | [4]=OE | [5]=6 | [6]=- | [8]=Adhoc/Contract faculty requirement | [9]=3.388888888888889 | [10]=5.722222222222222
+Row 10: [1]=ED | [2]=- | [3]=- | [4]=BMD | [5]=- | [6]=- | [8]=Existing no.of faculty | [9]=12 | [10]=12
+Row 11: [1]=EVS | [2]=- | [3]=- | [4]=DT | [5]=- | [6]=- | [8]=Note:
+Row 12: [0]=T.E | [1]=CN  | [2]=9 | [3]=- | [4]=DA&V | [5]=9 | [6]=24 | [8]=Mini project load= 1Hr/faculty &  Major Project Lo
+Row 13: [1]=WC  | [2]=9 | [3]=- | [4]=CSS  | [5]=9 | [6]=24 | [8]=2 courses offered under each DLOC
+Row 14: [1]=AI | [2]=9 | [3]=24 | [4]=SE&PM  | [5]=9 | [6]=24 | [8]=* Two bathches of CC are combined
+Row 15: [1]=DWM | [2]=9 | [3]=24 | [4]=ML | [5]=9 | [6]=24 | [8]=$ Load shared with AI&DS Department 
+Row 16: [1]=DLOC-1 $ | [2]=9 | [3]=- | [4]=DLOC-2 $ | [5]=9 | [6]=- | [8]=# Students practical batch reduced to 3 batches be
+Row 17: [1]=WC& NL | [2]=- | [3]=24 | [4]=SBLC-CC* | [5]=- | [6]=24 | [8]=Excluded: FE load Sem I = 6+18=24 (C-programming) 
+Row 18: [0]=B.E. | [1]=DL | [2]=3 | [3]=6 | [4]=AAI | [5]=3 | [6]=6
+Row 19: [1]=BDA | [2]=3 | [3]=6 | [4]=DLOC 5 | [5]=3 | [6]=6
+Row 20: [1]=DLOC-3 | [2]=3 | [3]=6 | [4]=DLOC-6 | [5]=3 | [6]=6
+Row 21: [1]=DLOC-4 | [2]=3 | [3]=6 | [4]=ILOC-II | [5]=3 | [6]=-
+Row 22: [1]=ILOC-1 | [2]=3 | [3]=- | [4]=- | [5]=- | [6]=-
+Row 23: [0]=Honors | [1]=Honors | [2]=3 | [3]=2 | [4]=Honors | [5]=3 | [6]=2
+Row 24: [0]=TOTAL | [2]=102 | [3]=152 | [5]=102 | [6]=194
+Row 25: [0]=SEMESTER LOAD | [2]=254 | [5]=296
+Row 26: [0]=MINI/MAJOR PROJECT LOAD | [2]=20 | [3]=10 | [5]=20 | [6]=10
+Row 27: [0]=GRAND TOTAL | [2]=284 | [5]=326
+
+Merges (19 total - showing first 10):
+  A6:A12
+  A1:L1
+  A2:L2
+  A3:L3
+  A4:A5
+  B4:B5
+  C4:D4
+  E4:E5
+  I4:K4
+  A13:A18
+
+--- 3 batch workload --- (rows:1010, cols:43)
+Row 0: [0]=Vidyavardhini's College of Engineering & Technolog
+Row 1: [0]=Department of Computer Science and Engineering (Da | [40]=                                                  
+Row 2: [0]=Academic Year  2025-26 (Odd Semester)
+Row 5: [0]=        
+       Teachers                    Subje | [2]=Total Load | [5]=Mr. Yogesh Pingle | [7]=Ms. Krunali Vartak | [9]=Ms. Maya Varghese | [11]=Ms. Janisa Pereira | [13]=Mrs. Leena Raut | [15]=Ms. Odilia Gonsalves | [17]=Mr. Ichhanshu Jaiswal | [19]=Mrs. Kranti Gule | [21]=Ms. Shital Cheke | [23]=Ms. Bhavika Joshi | [25]=Ms. Nishiganda Pagare | [27]=Ms. Sayali Susvilkar | [29]=Ms. Nivedha Raut | [31]=Ms.Anjali Pardeshi | [33]=Ms. Yogita Shelar | [35]=Ms. Shilpa Bane | [37]=Maths | [39]=Language | [41]=Subject Load
+Row 6: [2]=Lecture | [3]=Practical | [4]=Tutorial
+Row 7: [5]=T | [6]=P | [7]=T | [8]=P | [9]=T | [10]=P | [11]=T | [12]=P | [13]=T | [14]=P | [15]=T | [16]=P | [17]=T | [18]=P | [19]=T | [20]=P | [21]=T | [22]=P | [23]=T | [24]=P | [25]=T | [26]=P | [27]=T | [28]=P | [29]=T | [30]=P | [31]=T | [32]=P | [33]=T | [34]=P | [35]=T | [36]=P | [37]=T | [38]=P | [39]=T | [40]=P
+Row 8: [0]=S.E. CSE (DS) | [1]=EM3 | [2]=6 | [3]=- | [4]=9 | [37]=6 | [38]=9 | [41]=15
+Row 9: [1]=DSGT | [2]=9 | [3]=- | [4]=- | [9]=3 | [23]=3 | [27]=3 | [41]=9
+Row 10: [1]=AOA | [2]=9 | [3]=18 | [4]=- | [11]=3 | [12]=2 | [17]=3 | [18]=6 | [21]=3 | [22]=6 | [24]=2 | [36]=2 | [41]=27
+Row 11: [1]=COA | [2]=9 | [3]=18 | [4]=- | [8]=2 | [25]=3 | [26]=6 | [31]=3 | [32]=6 | [35]=3 | [36]=4 | [41]=27
+Row 12: [1]=OE | [2]=6 | [3]=- | [4]=- | [35]=6 | [41]=6
+Row 13: [1]=Full stack with JAVA | [2]=6 | [3]=18 | [4]=- | [5]=4 | [6]=8 | [13]=2 | [14]=8 | [30]=2 | [41]=24
+Row 14: [1]=ED* | [2]=0 | [3]=0 | [4]=- | [41]=0
+Row 15: [1]=EVS* | [2]=0 | [3]=0 | [4]=- | [41]=0
+Row 16: [1]=DSE | [2]=0 | [3]=6 | [4]=- | [34]=4 | [36]=2 | [41]=6
+Row 17: [0]=T.E. CSE(DS) | [1]=CN  | [2]=9 | [3]=- | [4]=- | [9]=3 | [19]=3 | [29]=3 | [41]=9
+Row 18: [1]=WC  | [2]=9 | [3]=- | [4]=- | [21]=3 | [33]=6 | [41]=9
+Row 19: [1]=AI | [2]=9 | [3]=24 | [4]=- | [11]=3 | [12]=8 | [15]=3 | [16]=10 | [17]=3 | [18]=4 | [32]=2 | [41]=33
+Row 20: [1]=DWM | [2]=9 | [3]=24 | [4]=- | [7]=3 | [8]=8 | [23]=3 | [24]=8 | [27]=3 | [28]=8 | [41]=33
+Row 21: [1]=DLOC-1 $ | [2]=6 | [3]=- | [4]=- | [5]=3 | [33]=3 | [41]=6
+Row 22: [1]=WC& NL | [2]=- | [3]=24 | [4]=- | [10]=10 | [20]=6 | [22]=4 | [30]=4 | [41]=24
+Row 23: [1]=BCE-II | [2]=6 | [3]=24 | [4]=- | [39]=6 | [40]=24 | [41]=30
+Row 24: [1]=Honors | [2]=4 | [3]=- | [4]=- | [25]=2 | [27]=2 | [41]=4
+Row 25: [0]=B.E. CSE(DS)  | [1]=DL | [2]=3 | [3]=6 | [4]=- | [13]=3 | [14]=2 | [34]=4 | [41]=9
+Row 26: [1]=BDA | [2]=3 | [3]=6 | [4]=- | [29]=3 | [30]=6 | [41]=9
+Row 27: [1]=DLOC-3 $ | [2]=3 | [3]=4 | [4]=- | [19]=3 | [20]=4 | [41]=7
+Row 28: [1]=DLOC-4 $ | [2]=3 | [3]=4 | [4]=- | [22]=2 | [31]=3 | [32]=4 | [41]=7
+Row 29: [1]=ILOC-1 | [2]=6 | [3]=- | [4]=- | [7]=3 | [15]=3 | [41]=6
+Row 30: [1]=Honors | [2]=4 | [3]=4 | [4]=- | [13]=2 | [25]=2 | [26]=4 | [41]=8
+Row 31: [0]=TOTAL | [2]=119 | [3]=180 | [4]=9 | [5]=7 | [6]=8 | [7]=6 | [8]=10 | [9]=6 | [10]=10 | [11]=6 | [12]=10 | [13]=7 | [14]=10 | [15]=6 | [16]=10 | [17]=6 | [18]=10 | [19]=6 | [20]=10 | [21]=6 | [22]=12 | [23]=6 | [24]=10 | [25]=7 | [26]=10 | [27]=8 | [28]=8 | [29]=6 | [30]=12 | [31]=6 | [32]=12 | [33]=9 | [34]=8 | [35]=9 | [36]=8 | [37]=6 | [38]=9 | [39]=6 | [40]=24 | [41]=259
+Row 32: [5]=15 | [7]=16 | [9]=16 | [11]=16 | [13]=17 | [15]=16 | [17]=16 | [19]=16 | [21]=18 | [23]=16 | [25]=17 | [27]=16 | [29]=18 | [31]=18 | [33]=17 | [35]=17 | [37]=15 | [39]=30
+Row 33: [13]=Note:  $ combined load of CSE(DS) and AIDS departm
+Row 34: [8]=* 2 division of ED And EVS will be taken by Mechan
+
+Merges (52 total - showing first 10):
+  AP6:AP7
+  AB33:AC33
+  A38:B38
+  R33:S33
+  T33:U33
+  V33:W33
+  X33:Y33
+  H33:I33
+  J33:K33
+  L33:M33
